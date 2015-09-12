@@ -13,12 +13,12 @@ This is a problem that many of us on our team have experienced, especially since
 1. As a user, I want to create an account
 2. As a user, I want to log into my account
 3. As a user, I want to be able to recover my password if I forget it or it becomes compromised
-4. As a user, I want to input grocery items to my "kitchen/pantry" by scanning barcodes
-5. As a user, I want to input grocery items to my "kitchen/pantry" by typing item names
+4. As a user, I want to input grocery items to my "kitchen/pantry" by typing item names
+4. As a user, I want to input grocery items to my "kitchen/pantry" by scanning barcodes **(if time allows)**
 6. As a user, I want to be able to remove grocery items
 7. As a user, I want to keep track of my current supply of grocery items
 8. As a user, I want to find recipes based on items in my kitchen
-9. As a user, I want to add allergies to limit the recipes I look for
+9. As a user, I want to add allergies to limit the recipes I look for **(if time allows)**
 4. As a user, I want to know the nutritional information about a recipe **(if time allows)**
 5. As a user, I want to be able to save the recipes that I like
 6. As a user, I want to read the recipe easily
@@ -28,7 +28,7 @@ This is a problem that many of us on our team have experienced, especially since
 13. As a user, I want to plan my meals in advance to determine what ingredients I need **(if time allows)**
 14. As a user, I want to be reminded before food in my kitten expires and given suggested recipes to make use of the food **(if time allows)**
 14. Ad a user, I would like to post a picture of my completed recipe to social media **(if time allows)**
-15. As a developer, I would like to keep track of users' preferences and give more personalized recipe suggestions
+15. As a developer, I would like to keep track of users' preferences and give more personalized recipe suggestions **(if time allows)**
 15. As a developer, I would like to pull recipe information from a public API
 16. As a developer, I would like to allow users to log in with third-party services
 17. As a developer, I would like to develop a client app for Android
