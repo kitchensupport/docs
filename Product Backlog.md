@@ -13,7 +13,7 @@ This is a problem that many of us on our team have experienced, especially since
 1. As a user, I want to create an account
 2. As a user, I want to log into my account
 3. As a user, I want to input and remove grocery items
-4. As a user, I want to know the nutritional information about a recipe
+4. As a user, I want to know the nutritional information about a recipe **(if time allows)**
 5. As a user, I want to be able to save the recipes that I like
 6. As a user, I want to read the recipe easily
 7. As a user, I want to rate recipes **(if time allows)**
