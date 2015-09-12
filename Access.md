@@ -1,4 +1,4 @@
-# How to access code repository
+# How to access our code repository
 ##### Team 3 – Kitchen Support
 ##### Garrick Buckley, Mason Herhusky, Jack Horton, Garrett Lewis, Graham Park, Darrell Shi
 
